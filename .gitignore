@@ -9,3 +9,6 @@
 !README.md
 !.gitignore
 !init.sh
+/fceux-am
+!/doc/note.md
+/am-kernels
